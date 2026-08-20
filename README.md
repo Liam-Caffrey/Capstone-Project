@@ -9,7 +9,9 @@ cLouvainTest.ipynb -- is the file used to test concensus clustering on the louva
 
 Capstone_Project.pdf -- is the IEEE styled pdf document used as the final submission.
 
-The accompanying pngs used within said document are also present;
+Additional_Documentation.pdf -- is a couple more examples of tracking communities over time, mainly a clean showcase of all the Jaccard similarity tables.
+
+The accompanying pngs used within the main document are also present;
 + Modularity.png - the modularity of the graphs over time.
 + Number of Communities.png - the number of communities over time.
 + Normalised Shannon index.png - the Pielou's evenness index over time
