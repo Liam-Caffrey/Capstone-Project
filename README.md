@@ -1,6 +1,8 @@
 # Capstone-Project
 Masters Capstone Project.
 
+Finalised paper present here
+
 The google documents were sued to keep a more detailed track of code and between meetings account.
 
 CapstoneProject.ipynb -- was used as the main coding file where all the main pipelines exist to compile and display data.
