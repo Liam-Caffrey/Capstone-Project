@@ -1,6 +1,7 @@
 
 # Can an Unsupervised Temporal Analysis Provide Useful Magic: The Gathering Data
-Masters Capstone Project. Full paper "Capstone_project(5)(1).pdf"
+Masters Capstone Project. 
+Full paper "Capstone_project(5)(1).pdf"
 
 
                                                           Abstract
