@@ -1,7 +1,8 @@
 
 # Can an Unsupervised Temporal Analysis Provide Useful Magic: The Gathering Data
 Masters Capstone Project. 
-Full paper "Capstone_project(5)(1).pdf"
+
+Full paper available in "Capstone_project(5)(1).pdf" file
 
 
                                                           Abstract
@@ -13,7 +14,7 @@ In Magic: The Gathering the key to a good analysis of the game is the constant a
 I would like to thank Dr. Patrick Mannion for supervising and supporting this project.
 
                                                           Main Research Questions 
-Therefore the main research questions that will be answered through this project are;
+The main research questions that will be answered through this project are;
 1) Is an unlabelled clustering approach a viable way of assessing the current state of a format and by extension a viable way of preforming a temporal analysis?
 2) Can the data provided by a temporal analysis this way provide feedback to designers free from human bias?
 3) Can this Framework be applied to other formats and CCGs?
