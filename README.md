@@ -1,5 +1,21 @@
 # Capstone-Project
+
+
+
+
+# AUTONOMOUS UNDERWATER VEHICLE SIMULATION AND CONTROL
 Masters Capstone Project.
+
+
+                                                          Abstract
+This aim of this project to is to simulate an underwater marine environment in Unity and to develop effective AUV controllers to navigate the environment. This AUV was given the main task of map generation, which provided locations and images of the marine life observed. The AUV was able to traverse multiple paths and collect this marine data building the locational map and allowing the user to display the exact locations marine life was met. Simulation leads to a better future for underwater robotics so the development of such systems and testing and development of controls is vital for its growth. This simulator in particular allows for tracking, managing and gathering knowledge of marine life in any given marine environment.
+
+
+
+
+
+
+
 
 Finalised paper present here
 
