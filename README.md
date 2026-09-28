@@ -2,7 +2,7 @@
 # Can an Unsupervised Temporal Analysis Provide Useful Magic: The Gathering Data
 Masters Capstone Project. 
 
-Full paper available in "Capstone_project(5)(1).pdf" file
+Full paper available in "Capstone_project(5)(1).pdf" file.
 
 
                                                           Abstract
@@ -31,11 +31,11 @@ Additional_Documentation.pdf -- is a couple more examples of tracking communitie
 The accompanying pngs used within the main document are also present;
 + Modularity.png - the modularity of the graphs over time.
 + Number of Communities.png - the number of communities over time.
-+ Normalised Shannon index.png - the Pielou's evenness index over time
-+ PageRank-bans3.png - the PageRank scores for the banned cards graphed
-+ Normalised Card Occurrences-bans3.png - the Normalised Card Occurrences scores for the banned cards graphed
-+ PageRank-comp3.png - both banned and unbanned card's PageRank scores for comparison
-+ Normalised Card Occurrences-comp3.png -both banned and unbanned card's Normalised Card Occurrences scores for comparison
++ Normalised Shannon index.png - the Pielou's evenness index over time.
++ PageRank-bans3.png - the PageRank scores for the banned cards graphed.
++ Normalised Card Occurrences-bans3.png - the Normalised Card Occurrences scores for the banned cards graphed.
++ PageRank-comp3.png - both banned and unbanned card's PageRank scores for comparison.
++ Normalised Card Occurrences-comp3.png -both banned and unbanned card's Normalised Card Occurrences scores for comparison.
 
 
                                                           References 
